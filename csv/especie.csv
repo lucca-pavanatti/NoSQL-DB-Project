@@ -1,0 +1,99 @@
+"id_especie","nome","filo","ordem","classe","familia","genero","grupo","endemica_brasil","migratoria"
+"c0c27192-c53f-4922-b24d-307dc176aee6","Adelpha atlantica","Arthropoda","Lepidoptera","Insecta","Nymphalidae","Adelpha","Invertebrados Terrestres","Sim",NULL
+"bb192dc1-c69d-4c6e-a43a-1258f22ac77f","Alopias superciliosus","Chordata","Lamniformes","Elasmobranchii","Alopiidae","Alopias","Tubarões e Raias","Não","Sim"
+"c7461853-b436-4103-954a-c353dbf4ae56","Alopias vulpinus","Chordata","Lamniformes","Elasmobranchii","Alopiidae","Alopias","Tubarões e Raias","Não","Sim"
+"177269df-9481-4e44-9a38-a75700bc51cb","Aburria cujubi","Chordata","Galliformes","Aves","Cracidae","Aburria","Aves","Não",NULL
+"69bc3c26-8f2b-49a0-85b1-cc7c5f70804b","Aratinga solstitialis","Chordata","Psittaciformes","Aves","Psittacidae","Aratinga","Aves","Não","Não"
+"f2152600-6c26-4359-8917-6f57a1270b21","Alectrurus tricolor","Chordata","Passeriformes","Aves","Tyrannidae","Alectrurus","Aves","Não",NULL
+"e6b50224-ee01-4fa6-9d8d-beb8023d7cc1","Antilophia bokermanni","Chordata","Passeriformes","Aves","Pipridae","Antilophia","Aves","Sim","Não"
+"a8b016c1-7cac-4de8-ac3a-b991a373b43d","Anodorhynchus leari","Chordata","Psittaciformes","Aves","Psittacidae","Anodorhynchus","Aves","Sim","Não"
+"081fa40d-3a29-4acf-bfec-edbaded55cc9","Acherontides eleonorae","Arthropoda","Symphypleona","Entognatha","Arrhopalitidae","Arrhopalites","Invertebrados Terrestres","Sim","Não"
+"45e9221f-93e8-4f22-983d-1f87f2cd700a","Aegla cavernicola","Arthropoda","Decapoda","Malacostraca","Aeglidae","Aegla","Invertebrados de Água Doce","Sim","Não"
+"6faad31e-b64d-473b-bc1f-ed4b4e39b657","Aegla leptochela","Arthropoda","Decapoda","Malacostraca","Aeglidae","Aegla","Invertebrados de Água Doce","Sim","Não"
+"3dd43c51-7fad-45d5-a1cd-ef41aa7af327","Aegla microphthalma","Arthropoda","Decapoda","Malacostraca","Aeglidae","Aegla","Invertebrados de Água Doce","Sim","Não"
+"e4b58be0-ff36-4c26-8998-ec8d0ac32511","Amazoniscus leistikowi","Arthropoda","Isopoda","Malacostraca","Scleropactidae","Amazoniscus","Invertebrados Terrestres","Sim","Não"
+"e14f0ec4-e335-431a-8997-7e7dc4820c5b","Archolaemus ferreirai","Chordata","Gymnotiformes","Actinopterygii","Sternopygidae","Archolaemus","Peixes Continentais","Sim","Não"
+"de7cf631-c7dd-4fd0-b568-0d2b5464f072","Archolaemus santosi","Chordata","Gymnotiformes","Actinopterygii","Sternopygidae","Archolaemus","Peixes Continentais","Sim","Não"
+"78d5e929-2974-4bcb-9e3a-d1996bb6ef05","Arrhopalites alambariensis","Arthropoda","Symphypleona","Entognatha","Arrhopalitidae","Arrhopalites","Invertebrados Terrestres","Sim","Não"
+"80c1fb9b-ffd0-4968-bf32-dd1c876ede46","Arrhopalites amorimi","Arthropoda","Symphypleona","Entognatha","Arrhopalitidae","Arrhopalites","Invertebrados Terrestres","Sim","Não"
+"3fd40c49-3a46-4924-94ef-22215b26cae7","Arrhopalites botuveraensis","Arthropoda","Symphypleona","Entognatha","Arrhopalitidae","Arrhopalites","Invertebrados Terrestres","Sim","Não"
+"e7ab0884-5076-4465-acdf-dc64fd5bb76f","Arrhopalites gnaspinii","Arthropoda","Symphypleona","Entognatha","Arrhopalitidae","Arrhopalites","Invertebrados Terrestres","Sim","Não"
+"46da1c59-3c15-43af-b0b1-461896057315","Arrhopalites heteroculatus","Arthropoda","Symphypleona","Entognatha","Arrhopalitidae","Arrhopalites","Invertebrados Terrestres","Sim","Não"
+"cdf74d35-d8cd-44a3-886b-b6bfb665a141","Arrhopalites lawrencei","Arthropoda","Symphypleona","Entognatha","Arrhopalitidae","Arrhopalites","Invertebrados Terrestres","Sim","Não"
+"f10674c5-1ee6-4b98-abc1-6e29210ca6b0","Arrhopalites paranaensis","Arthropoda","Symphypleona","Entognatha","Arrhopalitidae","Arrhopalites","Invertebrados Terrestres","Sim","Não"
+"98416fd0-838e-471c-a859-f49a819e205d","Anabazenops dorsalis","Chordata","Passeriformes","Aves","Furnariidae","Anabazenops","Aves","Não","Não"
+"d7ac5c52-f53c-466d-9ed1-83d8d0061a68","Arremonops conirostris","Chordata","Passeriformes","Aves","Passerellidae","Arremonops","Aves","Não","Não"
+"5cd72d8d-bbe4-42ca-9696-51325ccdb77e","Aegla charon","Arthropoda","Decapoda","Malacostraca","Aeglidae","Aegla","Invertebrados de Água Doce","Sim","Não"
+"4cd92269-7d89-491d-9039-59ff84ac55ad","Adelophryne maranguapensis","Chordata","Anura","Amphibia","Eleutherodactylidae","Adelophryne","Anfíbios","Sim","Não"
+"4537b7dc-057a-4a27-b209-9c4c22d4cf9f","Archisotoma arariboia","Arthropoda","Collembola","Entognatha","Isotomidae","Archisotoma","Invertebrados Terrestres","Sim",NULL
+"4c23a3c9-5540-41bd-885c-5d5de71bf7d1","Arrhopalites glabrofasciatus","Arthropoda","Collembola","Entognatha","Arrhopalitidae","Arrhopalites","Invertebrados Terrestres","Sim","Não"
+"be47c62b-8104-4079-8dbd-e058e368a911","Archisotoma catiae","Arthropoda","Entomobryomorpha","Entognatha","Isotomidae","Archisotoma","Invertebrados Terrestres","Sim","Não"
+"4a2b40b7-1f76-44ec-bf28-0bfb64ab935e","Aethiopella littoralis","Arthropoda","Symphypleona","Entognatha","Arrhopalitidae","Arrhopalites","Invertebrados Terrestres","Sim","Não"
+"2e127948-f3f3-4aba-81c2-2d788a353898","Agraphorura mariapetrae","Arthropoda","Symphypleona","Entognatha","Arrhopalitidae","Arrhopalites","Invertebrados Terrestres","Não","Não"
+"2a9f5ed8-6b62-4e90-a8af-ce8e0deacdb7","Arlea arenicola","Arthropoda","Entomobryomorpha","Entognatha","Isotomidae","Arlea","Invertebrados Terrestres","Sim","Não"
+"ad71d537-0ec5-4fd5-b754-d175ee9979d7","Arlesia intermedia","Arthropoda","Symphypleona","Entognatha","Arrhopalitidae","Arrhopalites","Invertebrados Terrestres","Sim","Não"
+"ff4733c3-a875-45f9-9890-20db72c17268","Arlea psammophila","Arthropoda","Entomobryomorpha","Entognatha","Isotomidae","Arlea","Invertebrados Terrestres","Sim","Não"
+"0a67a4ee-47fb-440c-a662-d86bcad3e1a1","Ariadna aurea","Arthropoda","Araneae","Arachnida","Segestriidae","Ariadna","Invertebrados Terrestres","Sim","Não"
+"172676a8-ee29-4c99-b4bd-fa8d76ce3ad2","Anomaloglossus apiau","Chordata","Anura","Amphibia","Aromobatidae","Anomaloglossus","Anfíbios","Sim","Não"
+"66ef8646-7539-4ffe-b94f-15c5df55dfb1","Anomaloglossus tepequem","Chordata","Anura","Amphibia","Aromobatidae","Anomaloglossus","Anfíbios","Sim","Não"
+"889e40cb-595a-46c6-bb57-9b03e47220a6","Ancistrus minutus","Chordata","Siluriformes","Actinopterygii","Loricariidae","Ancistrus","Peixes Continentais","Sim","Não"
+"29e57c4c-2512-4ea1-982b-cb3cd1e967a6","Akodon mystax","Chordata","Rodentia","Mammalia","Cricetidae","Akodon","Mamíferos","Sim",NULL
+"d70dfce5-2125-4733-9a43-9d96937e8f7f","Aegla renana","Arthropoda","Decapoda","Malacostraca","Aeglidae","Aegla","Invertebrados Marinhos","Sim",NULL
+"bdcb9161-5f96-4558-92e9-abc6de79cdfd","Aegla brevipalma","Arthropoda","Decapoda","Malacostraca","Aeglidae","Aegla","Invertebrados de Água Doce","Sim","Não"
+"9a4f479f-6b7d-4814-ae1d-6d3b521acfc5","Aegla camargoi","Arthropoda","Decapoda","Malacostraca","Aeglidae","Aegla","Invertebrados de Água Doce","Sim","Não"
+"679c54ce-463a-43b3-ba05-65d6d8489923","Aegla franca","Arthropoda","Decapoda","Malacostraca","Aeglidae","Aegla","Invertebrados Marinhos","Sim",NULL
+"6f84a615-ca0f-439a-8821-2ac9bf0f0396","Aegla inconspicua","Arthropoda","Decapoda","Malacostraca","Aeglidae","Aegla","Invertebrados de Água Doce","Sim","Não"
+"028454f0-54aa-4552-9282-a17856f6f89c","Aegla inermis","Arthropoda","Decapoda","Malacostraca","Aeglidae","Aegla","Invertebrados de Água Doce","Sim","Não"
+"73cd7600-cb60-4027-9db8-10b68a52514d","Aegla itacolomiensis","Arthropoda","Decapoda","Malacostraca","Aeglidae","Aegla","Invertebrados de Água Doce","Sim","Não"
+"cba00bc4-7c14-4c31-b4a0-f1292357a7ca","Aegla leachi","Arthropoda","Decapoda","Malacostraca","Aeglidae","Aegla","Invertebrados de Água Doce","Sim","Não"
+"12b11ae1-04a0-4717-9495-0625d17c6d07","Aegla leptodactyla","Arthropoda","Decapoda","Malacostraca","Aeglidae","Aegla","Invertebrados Marinhos","Sim",NULL
+"f33eba25-ed5a-47c4-8636-76dc55932f8c","Aegla manuinflata","Arthropoda","Decapoda","Malacostraca","Aeglidae","Aegla","Invertebrados de Água Doce","Sim","Não"
+"de36d6e4-5477-4366-a5bb-4fe9a33ae04c","Aegla oblata","Arthropoda","Decapoda","Malacostraca","Aeglidae","Aegla","Invertebrados de Água Doce","Sim","Não"
+"fcd55b26-5380-447a-b9f4-369f3db946d2","Aegla obstipa","Arthropoda","Decapoda","Malacostraca","Aeglidae","Aegla","Invertebrados de Água Doce","Sim","Não"
+"4e911820-9b66-4e1e-a0cb-33d120353e59","Aegla perobae","Arthropoda","Decapoda","Malacostraca","Aeglidae","Aegla","Invertebrados Marinhos","Sim",NULL
+"f9a796ad-d6da-4e65-a75e-a995e42727c9","Aegla violacea","Arthropoda","Decapoda","Malacostraca","Aeglidae","Aegla","Invertebrados de Água Doce","Sim","Não"
+"347287b6-7fc0-443d-a062-eb304b6d5d7b","Aburria jacutinga","Chordata","Galliformes","Aves","Cracidae","Aburria","Aves","Não","Não"
+"4d439f7b-04de-45e0-a8a7-8175377106bb","Acrobatornis fonsecai","Chordata","Passeriformes","Aves","Furnariidae","Acrobatornis","Aves","Sim","Não"
+"b34e92b3-6e79-434e-88a6-8b641a3fbc58","Amadonastur lacernulatus","Chordata","Accipitriformes","Aves","Accipitridae","Amadonastur","Aves","Sim","Não"
+"e9627371-348e-46b4-b9f5-47f3fdbfd2cf","Amazona pretrei","Chordata","Psittaciformes","Aves","Psittacidae","Amazona","Aves","Não","Sim"
+"5130c1f2-6f8c-4456-92c0-514adf9c84c0","Amazona rhodocorytha","Chordata","Psittaciformes","Aves","Psittacidae","Amazona","Aves","Sim","Não"
+"4fb71223-445c-4928-bbde-eebe41f0c6a8","Amazona vinacea","Chordata","Psittaciformes","Aves","Psittacidae","Amazona","Aves","Não","Não"
+"61e2da76-ebd5-4b48-a1cb-d09ffa819e81","Anodorhynchus glaucus","Chordata","Psittaciformes","Aves","Psittacidae","Anodorhynchus","Aves","Não","Não"
+"cf960740-5da5-4624-829b-e354afdcb63c","Anumara forbesi","Chordata","Passeriformes","Aves","Icteridae","Anumara","Aves","Sim","Não"
+"67c36f32-e174-4214-89fd-b05c4c089a64","Anablepsoides cearensis","Chordata","Cyprinodontiformes","Actinopterygii","Rivulidae","Anablepsoides","Peixes Continentais","Sim",NULL
+"d01b5bc7-eea5-4f5f-913e-0d33f9239bae","Apostolepis arenaria","Chordata","Squamata","Reptilia","Dipsadidae","Apostolepis","Répteis","Sim",NULL
+"2749bb6e-df0c-469b-b644-4487e68c729e","Apostolepis gaboi","Chordata","Squamata","Reptilia","Dipsadidae","Apostolepis","Répteis","Sim",NULL
+"dd2e133f-dcf7-4542-9ce8-847d75490b94","Apostolepis quirogai","Chordata","Squamata","Reptilia","Dipsadidae","Apostolepis","Répteis","Não",NULL
+"b201df61-1fb8-4e65-aa8f-6d81811d936a","Apostolepis striata","Chordata","Squamata","Reptilia","Dipsadidae","Apostolepis","Répteis","Sim",NULL
+"2f205b0b-7051-4173-bd6c-abfd45c72b69","Actinote quadra","Arthropoda","Lepidoptera","Insecta","Nymphalidae","Actinote","Invertebrados Terrestres","Sim",NULL
+"8fef7c07-6229-42e8-9b0a-024ac11395d1","Actinote zikani","Arthropoda","Lepidoptera","Insecta","Nymphalidae","Actinote","Invertebrados Terrestres","Sim","Não"
+"051471b7-7d2d-498c-94bc-37a53f79d19d","Aguarunichthys tocantinsensis","Chordata","Siluriformes","Actinopterygii","Pimelodidae","Aguarunichthys","Peixes Continentais","Sim",NULL
+"c6350fe8-a18d-4b0b-8b89-2bd3a39fa411","Anthus nattereri","Chordata","Passeriformes","Aves","Motacillidae","Anthus","Aves","Não","Não"
+"358323ca-855d-4ead-bf53-4c84d7c3509c","Alouatta belzebul","Chordata","Primates","Mammalia","Atelidae","Alouatta","Mamíferos","Sim","Não"
+"e4d44243-7636-48bc-8a8c-c0da4dd17c72","Alouatta discolor","Chordata","Primates","Mammalia","Atelidae","Alouatta","Mamíferos","Sim","Não"
+"7f0430c4-5e67-41f3-8d61-3a6265c915eb","Alouatta ululata","Chordata","Primates","Mammalia","Atelidae","Alouatta","Mamíferos","Sim","Não"
+"891f3632-cecc-4f16-a159-8fb18fc0ecfe","Aceratobasis cornicauda","Arthropoda","Zygoptera","Insecta","Coenagrionidae","Aceratobasis","Invertebrados de Água Doce","Sim","Não"
+"7cbf9153-7f77-40a1-9347-1da416a2c960","Aceratobasis mourei","Arthropoda","Zygoptera","Insecta","Coenagrionidae","Aceratobasis","Invertebrados de Água Doce","Sim",NULL
+"3eef5f7b-854a-48a6-b127-c6c82c9259ca","Adebrotus lugoi","Arthropoda","Ephemeroptera","Insecta","Baetidae","Adebrotus","Invertebrados de Água Doce","Sim","Não"
+"9d9f0259-5658-4e2a-b3d8-edd95aef736b","Arawacus aethesa","Arthropoda","Lepidoptera","Insecta","Lycaenidae","Arawacus","Invertebrados Terrestres","Sim",NULL
+"ba9895a6-10a4-4ef6-986c-65f07d415cab","Ananteris infuscata","Arthropoda","Scorpiones","Arachnida","Buthidae","Ananteris","Invertebrados Terrestres","Sim","Não"
+"4a044ad9-3004-45a7-aa71-11ca051ebdfd","Ameiva parecis","Chordata","Squamata","Reptilia","Teiidae","Ameiva","Répteis","Sim",NULL
+"db3fe55d-26d5-4a1d-a735-96e895d113f4","Ameivula nativo","Chordata","Squamata","Reptilia","Teiidae","Ameivula","Répteis","Sim",NULL
+"90715435-8349-4f8a-a0b6-b174f6bc7c66","Amphisbaena arda","Chordata","Squamata","Reptilia","Amphisbaenidae","Amphisbaena","Répteis","Sim",NULL
+"5022c2a0-f47f-4bbc-940e-af8cab68097b","Amphisbaena frontalis","Chordata","Squamata","Reptilia","Amphisbaenidae","Amphisbaena","Répteis","Sim",NULL
+"da0bfc3c-9baa-4a48-9764-13701fc730cd","Amphisbaena nigricauda","Chordata","Squamata","Reptilia","Amphisbaenidae","Amphisbaena","Répteis","Sim",NULL
+"80fd7a36-d6fa-421a-8228-c60c6a8b2509","Amphisbaena supernumeraria","Chordata","Squamata","Reptilia","Amphisbaenidae","Amphisbaena","Répteis","Sim",NULL
+"9fe1e2d7-bd56-4d97-b8fd-666cee8c8dd5","Amphisbaena uroxena","Chordata","Squamata","Reptilia","Amphisbaenidae","Amphisbaena","Répteis","Sim",NULL
+"8914f193-5a53-486e-9742-ccf1182293be","Ancistrus cryptophthalmus","Chordata","Siluriformes","Actinopterygii","Loricariidae","Ancistrus","Peixes Continentais","Sim","Não"
+"49c7b8ea-095c-4639-af21-0b3bf8205789","Ancistrus formoso","Chordata","Siluriformes","Actinopterygii","Loricariidae","Ancistrus","Peixes Continentais","Sim","Não"
+"c04fd970-048c-4a80-a51a-3fac3ff9b000","Apareiodon davisi","Chordata","Characiformes","Actinopterygii","Parodontidae","Apareiodon","Peixes Continentais","Sim",NULL
+"6e0f66eb-814a-4f5b-97c0-6e7d0ce595c5","Arhysosage cactorum","Arthropoda","Hymenoptera","Insecta","Andrenidae","Arhysosage","Invertebrados Terrestres","Sim","Não"
+"82383fe7-c10d-4b9f-bbb7-789cb0fd0d6e","Altitatiayus campoi","Arthropoda","Coleoptera","Insecta","Lucanidae","Altitatiayus","Invertebrados Terrestres","Sim","Não"
+"e36eaa40-fb71-46af-949b-09fd3ba02aa6","Altitatiayus dulceae","Arthropoda","Coleoptera","Insecta","Lucanidae","Altitatiayus","Invertebrados Terrestres","Sim","Não"
+"1d07e6b6-ecec-4702-a33e-84729dcbb0c1","Altitatiayus godinhorum","Arthropoda","Coleoptera","Insecta","Lucanidae","Altitatiayus","Invertebrados Terrestres","Sim","Não"
+"41b4e965-c615-4185-abda-9bfb1cad9715","Altitatiayus koikei","Arthropoda","Coleoptera","Insecta","Lucanidae","Altitatiayus","Invertebrados Terrestres","Sim","Não"
+"34d9ec97-c4cf-48e1-bdf6-aa8c4c426111","Altitatiayus rotundatus","Arthropoda","Coleoptera","Insecta","Lucanidae","Altitatiayus","Invertebrados Terrestres","Sim","Não"
+"7d5baa53-b658-4ab5-a860-933f975fb56f","Altitatiayus ruficollis","Arthropoda","Coleoptera","Insecta","Lucanidae","Altitatiayus","Invertebrados Terrestres","Sim","Não"
+"dfdc9d3c-9f88-4d6a-b805-8fef7ded2d63","Altitatiayus trifurcatus","Arthropoda","Coleoptera","Insecta","Lucanidae","Altitatiayus","Invertebrados Terrestres","Sim","Não"
+"125d6cb2-b401-4e69-9971-f3a839194d91","Amydetes bellorum","Arthropoda","Coleoptera","Insecta","Lampyridae","Amydetes","Invertebrados Terrestres","Sim","Não"
+"67690781-eff4-4753-b03f-1aad7abc80d6","Achirus mucuri","Chordata","Pleuronectiformes","Actinopterygii","Achiridae","Achirus","Peixes Marinhos (ósseos)","Sim","Sim"

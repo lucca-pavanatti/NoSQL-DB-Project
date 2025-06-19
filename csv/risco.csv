@@ -1,0 +1,99 @@
+"id_risco","id_especie","tendencia_populacional","ameaca","categoria","possivelmente_extinta","uso"
+"bcc8dc46-3fa2-4967-be8b-ede9040c3a09","c0c27192-c53f-4922-b24d-307dc176aee6","Desconhecida","1 - Desenvolvimento residencial e comercial","Em Perigo","Não",NULL
+"c6316455-ad15-4633-afff-bf0118536f8a","bb192dc1-c69d-4c6e-a43a-1258f22ac77f","Declinando","5 - Uso de recursos biológicos","Em Perigo","Não","1 - Alimentação humana"
+"31ae8693-cf4b-497f-90b1-7f936c411167","c7461853-b436-4103-954a-c353dbf4ae56","Declinando","5 - Uso de recursos biológicos","Criticamente em Perigo","Não","13 - Outros bens de consumo 1"
+"61f47488-04e1-4446-aed0-d6d10474e73f","177269df-9481-4e44-9a38-a75700bc51cb","Declinando","1 - Desenvolvimento residencial e comercial","Vulnerável","Não",NULL
+"cdf79622-288d-449d-a780-21491171a163","69bc3c26-8f2b-49a0-85b1-cc7c5f70804b","Declinando","2 - Agropecuária e Aquacultura","Em Perigo","Não","3 - Animais de estimação/ornamentais"
+"d82e1307-b689-49f6-bd13-f61f41c9a7d3","f2152600-6c26-4359-8917-6f57a1270b21","Declinando","1 - Desenvolvimento residencial e comercial","Vulnerável","Não",NULL
+"497e1c1a-9cc4-440c-bcfa-1ab1489ff3b5","e6b50224-ee01-4fa6-9d8d-beb8023d7cc1","Declinando","1 - Desenvolvimento residencial e comercial","Criticamente em Perigo","Não",NULL
+"a957f170-38fa-4722-a413-f39a24d1d58b","a8b016c1-7cac-4de8-ac3a-b991a373b43d","Aumentando","5 - Uso de recursos biológicos","Em Perigo","Não","3 - Animais de estimação/ornamentais"
+"a23f379b-a541-470b-9aee-d2116fb15361","081fa40d-3a29-4acf-bfec-edbaded55cc9","Desconhecida","6 - Distúrbios humanos 6","Vulnerável","Não","15 - Pesquisa"
+"8c440455-4fdb-4e7f-ae84-8e5f239a41b9","45e9221f-93e8-4f22-983d-1f87f2cd700a","Declinando","1 - Desenvolvimento residencial e comercial","Criticamente em Perigo","Não","15 - Pesquisa"
+"52664c24-9d22-42a0-b13f-29d62da229b5","6faad31e-b64d-473b-bc1f-ed4b4e39b657","Declinando","3 - Produção energética e mineração","Criticamente em Perigo","Não","15 - Pesquisa"
+"eb2a797d-33c2-4e66-bd6e-8a786b56c66c","3dd43c51-7fad-45d5-a1cd-ef41aa7af327","Declinando","3 - Produção energética e mineração","Criticamente em Perigo","Não","15 - Pesquisa"
+"ba058c6f-4823-4a08-924a-d47f27500775","e4b58be0-ff36-4c26-8998-ec8d0ac32511","Desconhecida","11 - Mudanças e extremos climáticos","Criticamente em Perigo","Não",NULL
+"e24e9e5e-e9cb-49ce-9ee8-f44eb4c149a1","e14f0ec4-e335-431a-8997-7e7dc4820c5b","Desconhecida","3 - Produção energética e mineração","Vulnerável","Não",NULL
+"640bb092-307e-4625-a9f7-ef03778bd464","de7cf631-c7dd-4fd0-b568-0d2b5464f072","Desconhecida","3 - Produção energética e mineração","Vulnerável","Não",NULL
+"2f57b86f-c23e-4fc2-9d7f-e45072ee050e","78d5e929-2974-4bcb-9e3a-d1996bb6ef05","Desconhecida","1 - Desenvolvimento residencial e comercial","Vulnerável","Não","15 - Pesquisa 16"
+"aba50994-3030-4d3f-b890-56a6079f4a32","80c1fb9b-ffd0-4968-bf32-dd1c876ede46","Desconhecida","6 - Distúrbios humanos","Vulnerável","Não","15 - Pesquisa"
+"d4336fc7-4952-42d4-afb8-4e117eb67428","3fd40c49-3a46-4924-94ef-22215b26cae7","Desconhecida","1 - Desenvolvimento residencial e comercial","Vulnerável","Não","15 - Pesquisa"
+"f547767f-97da-4f37-934d-519bc93c6185","e7ab0884-5076-4465-acdf-dc64fd5bb76f","Desconhecida","6 - Distúrbios humanos","Criticamente em Perigo","Não","15 - Pesquisa"
+"0486fb91-24bb-43df-be82-7de8b82d4785","46da1c59-3c15-43af-b0b1-461896057315","Desconhecida","6 - Distúrbios humanos","Vulnerável","Não","15 - Pesquisa"
+"248d2785-3307-4d84-93a8-f4c29f51c087","cdf74d35-d8cd-44a3-886b-b6bfb665a141","Desconhecida","11 - Mudanças e extremos climáticos","Vulnerável","Não","15 - Pesquisa"
+"30f204c3-3041-4945-811f-da7a41a2a332","f10674c5-1ee6-4b98-abc1-6e29210ca6b0","Desconhecida","11 - Mudanças e extremos climáticos","Criticamente em Perigo","Não","15 - Pesquisa"
+"fccbe5f6-6cd3-413c-a87c-1b5bbfcbfd2b","98416fd0-838e-471c-a859-f49a819e205d","Declinando","2 - Agropecuária e Aquacultura","Vulnerável","Não",NULL
+"62fbe01b-c1a0-4d62-a1c5-d952d0132ce3","d7ac5c52-f53c-466d-9ed1-83d8d0061a68","Desconhecida","2 - Agropecuária e Aquacultura","Em Perigo","Não",NULL
+"bf0b5a60-e54c-4218-a699-3396e553abbb","5cd72d8d-bbe4-42ca-9696-51325ccdb77e","Desconhecida","9 - Poluição","Criticamente em Perigo","Não",NULL
+"42f6b66b-1d23-4098-9322-c1b28440ee45","4cd92269-7d89-491d-9039-59ff84ac55ad","Desconhecida","1 - Desenvolvimento residencial e comercial","Criticamente em Perigo","Não",NULL
+"e9e42719-b8b2-4568-8d58-8b4469da958b","4537b7dc-057a-4a27-b209-9c4c22d4cf9f","Desconhecida","6 - Distúrbios humanos","Criticamente em Perigo","Não",NULL
+"72e51f53-93d6-4408-9e0a-431dc9ed405d","4c23a3c9-5540-41bd-885c-5d5de71bf7d1","Desconhecida","3 - Produção energética e mineração","Em Perigo","Não",NULL
+"fb7d3bc6-0d57-497b-b152-0bda56a9c288","be47c62b-8104-4079-8dbd-e058e368a911","Desconhecida","1 - Desenvolvimento residencial e comercial","Criticamente em Perigo","Não",NULL
+"6fafc9af-1b2c-47dc-bd84-ab0a1c800cdd","4a2b40b7-1f76-44ec-bf28-0bfb64ab935e","Desconhecida","1 - Desenvolvimento residencial e comercial","Criticamente em Perigo","Não",NULL
+"784eeb80-8df7-452f-92f2-3ff01969275d","2e127948-f3f3-4aba-81c2-2d788a353898","Desconhecida","1 - Desenvolvimento residencial e comercial","Criticamente em Perigo","Não",NULL
+"ddc9a713-77cb-4297-93f6-d3ce763d5a2e","2a9f5ed8-6b62-4e90-a8af-ce8e0deacdb7","Desconhecida","1 - Desenvolvimento residencial e comercial","Criticamente em Perigo","Não",NULL
+"c24c57df-1430-47a2-b414-46a1c6ff3866","ad71d537-0ec5-4fd5-b754-d175ee9979d7","Desconhecida","1 - Desenvolvimento residencial e comercial","Criticamente em Perigo","Não",NULL
+"c9c0f810-95a7-4553-95fd-b9caa79c585e","ff4733c3-a875-45f9-9890-20db72c17268","Desconhecida","1 - Desenvolvimento residencial e comercial","Criticamente em Perigo","Não",NULL
+"df9bdabe-20ab-488c-b154-30393c1fa0f5","0a67a4ee-47fb-440c-a662-d86bcad3e1a1","Desconhecida","3 - Produção energética e mineração","Vulnerável","Não",NULL
+"9875b7bb-007e-4f0e-91bd-18e572f3bebf","172676a8-ee29-4c99-b4bd-fa8d76ce3ad2","Desconhecida","1 - Desenvolvimento residencial e comercial","Em Perigo","Não",NULL
+"e8fd8c7b-9ffb-4534-9dad-db1f6c707353","66ef8646-7539-4ffe-b94f-15c5df55dfb1","Declinando","2 - Agropecuária e Aquacultura","Criticamente em Perigo","Sim",NULL
+"0bd0a5dc-e590-457a-9a20-215343e46bf7","889e40cb-595a-46c6-bb57-9b03e47220a6","Declinando","1 - Desenvolvimento residencial e comercial","Em Perigo","Não",NULL
+"cf154799-a395-4edb-99e9-b8c714032bfb","29e57c4c-2512-4ea1-982b-cb3cd1e967a6","Desconhecida",NULL,"Vulnerável","Não",NULL
+"2f80c431-88ea-4442-9dfc-92696ee6fca3","d70dfce5-2125-4733-9a43-9d96937e8f7f","Desconhecida","9 - Poluição","Criticamente em Perigo","Não",NULL
+"adc27899-8517-480e-a299-97a47d3b13ec","bdcb9161-5f96-4558-92e9-abc6de79cdfd","Declinando","2 - Agropecuária e Aquacultura","Criticamente em Perigo","Não",NULL
+"52934c17-aae2-4b09-ab37-e71417b688b1","9a4f479f-6b7d-4814-ae1d-6d3b521acfc5","Desconhecida","2 - Agropecuária e Aquacultura","Em Perigo","Não",NULL
+"b36e5373-d4a4-4f22-8742-109bd97a9937","679c54ce-463a-43b3-ba05-65d6d8489923","nan","1 - Desenvolvimento residencial e comercial","Criticamente em Perigo","Não",NULL
+"4f27bab7-a70d-4ba7-ba1b-b7dc64c201c9","6f84a615-ca0f-439a-8821-2ac9bf0f0396","Desconhecida","1 - Desenvolvimento residencial e comercial","Vulnerável","Não",NULL
+"a8a3e94f-8106-49e9-8d1e-b33451a6034d","028454f0-54aa-4552-9282-a17856f6f89c","Desconhecida","2 - Agropecuária e Aquacultura","Em Perigo","Não",NULL
+"22b3b69a-4ee4-4fee-8501-098a412106b1","73cd7600-cb60-4027-9db8-10b68a52514d","Estável","1 - Desenvolvimento residencial e comercial","Em Perigo","Não",NULL
+"d9853801-e89b-4f04-bcf8-f0376cb1e488","cba00bc4-7c14-4c31-b4a0-f1292357a7ca","Desconhecida","2 - Agropecuária e Aquacultura","Em Perigo","Não",NULL
+"54814c2b-cbd7-4a4d-9cf6-010bce43c772","12b11ae1-04a0-4717-9495-0625d17c6d07","nan",NULL,"Vulnerável","Não",NULL
+"6eef3618-4c8f-4d97-bea6-b8cb072885e4","f33eba25-ed5a-47c4-8636-76dc55932f8c","Desconhecida","2 - Agropecuária e Aquacultura","Em Perigo","Não",NULL
+"0188fe59-3dfc-4948-9d4c-f4ebbe67a752","de36d6e4-5477-4366-a5bb-4fe9a33ae04c","Desconhecida","2 - Agropecuária e Aquacultura","Em Perigo","Não",NULL
+"de9b4826-1974-4ac9-b34d-0f9dfbaad5e6","fcd55b26-5380-447a-b9f4-369f3db946d2","Desconhecida","2 - Agropecuária e Aquacultura","Em Perigo","Não",NULL
+"1488fe74-ec4b-44c7-9c39-0b4e9edcb5a9","4e911820-9b66-4e1e-a0cb-33d120353e59","nan","2 - Agropecuária e Aquacultura 7","Criticamente em Perigo","Não",NULL
+"de701563-e683-466b-a93a-770105f4d70f","f9a796ad-d6da-4e65-a75e-a995e42727c9","Desconhecida","2 - Agropecuária e Aquacultura","Em Perigo","Não",NULL
+"08f1c718-8923-44fa-a3fa-666f0dc4fbf0","347287b6-7fc0-443d-a062-eb304b6d5d7b","Declinando","1 - Desenvolvimento residencial e comercial","Em Perigo","Não","12 - Vestuário acessório 1"
+"d7692371-f61f-4698-9c1f-e22f4a69e544","4d439f7b-04de-45e0-a8a7-8175377106bb","Declinando","1 - Desenvolvimento residencial e comercial","Vulnerável","Não",NULL
+"5c70ef81-be8c-4a25-8d59-9cfc262aaa2f","b34e92b3-6e79-434e-88a6-8b641a3fbc58","Declinando","1 - Desenvolvimento residencial e comercial","Vulnerável","Não",NULL
+"c82aafbe-d1ac-4324-ad1d-f2fe8ad69663","e9627371-348e-46b4-b9f5-47f3fdbfd2cf","Declinando","2 - Agropecuária e Aquacultura","Vulnerável","Não","3 - Animais de estimação/ornamentais"
+"40fd582c-6cc1-40f1-88ee-f78c88db111b","5130c1f2-6f8c-4456-92c0-514adf9c84c0","Declinando","1 - Desenvolvimento residencial e comercial","Vulnerável","Não","3 - Animais de estimação/ornamentais"
+"17adcf64-e2f5-4fc3-9af1-bc92a553353b","4fb71223-445c-4928-bbde-eebe41f0c6a8","Declinando","5 - Uso de recursos biológicos","Vulnerável","Não","1 - Alimentação humana"
+"8d8cc42d-8603-4fc8-947e-c2e717b2f055","61e2da76-ebd5-4b48-a1cb-d09ffa819e81","Desconhecida","2 - Agropecuária e Aquacultura","Regionalmente Extinta","Não",NULL
+"6571fc95-5046-4441-82d8-e2c39a0080f6","cf960740-5da5-4624-829b-e354afdcb63c","Declinando","2 - Agropecuária e Aquacultura","Vulnerável","Não","3 - Animais de estimação/ornamentais"
+"e8dbdf41-b879-4d82-a19d-c857af9fc2ec","67c36f32-e174-4214-89fd-b05c4c089a64","Desconhecida",NULL,"Criticamente em Perigo","Não",NULL
+"49da8508-4e2c-4883-bd35-f8dfb2206d53","d01b5bc7-eea5-4f5f-913e-0d33f9239bae","Desconhecida","2 - Agropecuária e Aquacultura","Em Perigo","Não",NULL
+"4b7ca73e-7e96-4717-bfeb-fa9d385994fe","2749bb6e-df0c-469b-b644-4487e68c729e","Desconhecida","3 - Produção energética e mineração","Em Perigo","Não",NULL
+"316c86ba-7ddd-485b-a110-a522b82c5c5d","dd2e133f-dcf7-4542-9ce8-847d75490b94","Desconhecida","2 - Agropecuária e Aquacultura","Em Perigo","Não",NULL
+"413dcd49-9247-44aa-accd-d9d0de9a578a","b201df61-1fb8-4e65-aa8f-6d81811d936a","Desconhecida","2 - Agropecuária e Aquacultura","Em Perigo","Não",NULL
+"fc9f61ae-e4de-4db8-86d5-1a5c1d2fe7b2","2f205b0b-7051-4173-bd6c-abfd45c72b69","Desconhecida","1 - Desenvolvimento residencial e comercial 2","Vulnerável","Não",NULL
+"ffcd749b-7167-4cca-aed4-2c23332e7dc9","8fef7c07-6229-42e8-9b0a-024ac11395d1","Declinando","1 - Desenvolvimento residencial e comercial","Criticamente em Perigo","Não",NULL
+"ecf1f5d0-3597-4715-bf56-cf0bec14221a","051471b7-7d2d-498c-94bc-37a53f79d19d","Declinando","3 - Produção energética e mineração","Em Perigo","Não",NULL
+"4412aeb0-cc0e-4a3f-86a3-d25fcaafc13f","c6350fe8-a18d-4b0b-8b89-2bd3a39fa411","Declinando","2 - Agropecuária e Aquacultura","Vulnerável","Não",NULL
+"e085304f-b1b5-40f6-942c-879edfd7317b","358323ca-855d-4ead-bf53-4c84d7c3509c","Declinando","11 - Mudanças e extremos climáticos","Vulnerável","Não","1 - Alimentação humana"
+"6d8fe93d-2bed-4f74-bfaf-593ad8937fdd","e4d44243-7636-48bc-8a8c-c0da4dd17c72","Declinando","1 - Desenvolvimento residencial e comercial","Vulnerável","Não",NULL
+"964a18c1-8fef-48ce-b76e-fff1e999d898","7f0430c4-5e67-41f3-8d61-3a6265c915eb","Declinando","11 - Mudanças e extremos climáticos","Em Perigo","Não","1 - Alimentação humana"
+"c9b1138a-0b06-4b1e-bdf2-fe6a01d765d2","891f3632-cecc-4f16-a159-8fb18fc0ecfe","Desconhecida","1 - Desenvolvimento residencial e comercial","Vulnerável","Não",NULL
+"a3c86e81-cc01-4be1-aee3-6f36389dca3c","7cbf9153-7f77-40a1-9347-1da416a2c960","Desconhecida","1 - Desenvolvimento residencial e comercial","Em Perigo","Não",NULL
+"bba0c3a6-1447-4370-85c6-cbf374d3ef1b","3eef5f7b-854a-48a6-b127-c6c82c9259ca","Desconhecida","2 - Agropecuária e Aquacultura","Vulnerável","Não",NULL
+"e161eb21-0dd9-47bc-9801-015fbb3a8346","9d9f0259-5658-4e2a-b3d8-edd95aef736b","Desconhecida","1 - Desenvolvimento residencial e comercial","Em Perigo","Não",NULL
+"fdf213ac-c940-43ff-a7bf-c8ac4ae9b03c","ba9895a6-10a4-4ef6-986c-65f07d415cab","Desconhecida",NULL,"Em Perigo","Não",NULL
+"93aa40ef-13f4-47b7-a4fb-b3ab58d49e56","4a044ad9-3004-45a7-aa71-11ca051ebdfd","Desconhecida","2 - Agropecuária e Aquacultura","Em Perigo","Não",NULL
+"f7c8e51d-5740-4816-9532-2448ca9a4d5c","db3fe55d-26d5-4a1d-a735-96e895d113f4","Declinando","1 - Desenvolvimento residencial e comercial","Em Perigo","Não",NULL
+"a6a7261f-04fa-49f4-b802-82010925203d","90715435-8349-4f8a-a0b6-b174f6bc7c66","Desconhecida","2 - Agropecuária e Aquacultura","Em Perigo","Não",NULL
+"0ee8658c-9775-4e37-9e6f-f6fdd5154ecc","5022c2a0-f47f-4bbc-940e-af8cab68097b","Desconhecida","2 - Agropecuária e Aquacultura","Em Perigo","Não",NULL
+"bbd31cb0-c199-4419-ab3c-1db8ab1e32e9","da0bfc3c-9baa-4a48-9764-13701fc730cd","Desconhecida","1 - Desenvolvimento residencial e comercial","Em Perigo","Não",NULL
+"51c43a3f-e231-4a4f-852a-7f6f30100d52","80fd7a36-d6fa-421a-8228-c60c6a8b2509","Desconhecida","1 - Desenvolvimento residencial e comercial","Em Perigo","Não",NULL
+"02bf9aef-4e61-4802-af17-c9b4a2c006c0","9fe1e2d7-bd56-4d97-b8fd-666cee8c8dd5","Desconhecida","2 - Agropecuária e Aquacultura","Em Perigo","Não",NULL
+"f25260f8-f3be-46ed-aa3e-3d172f37cfe3","8914f193-5a53-486e-9742-ccf1182293be","Desconhecida","2 - Agropecuária e Aquacultura","Em Perigo","Não","3 - Animais de estimação/ornamentais"
+"d6261682-8583-428d-a28f-e28652b65d37","49c7b8ea-095c-4639-af21-0b3bf8205789","Desconhecida",NULL,"Vulnerável","Não",NULL
+"f5ee3124-4915-40cf-a2c9-984e9c59ac62","c04fd970-048c-4a80-a51a-3fac3ff9b000","Desconhecida",NULL,"Em Perigo","Não",NULL
+"4e44734a-5f6b-4c8b-b2a7-60454f15b6f0","6e0f66eb-814a-4f5b-97c0-6e7d0ce595c5","Desconhecida","2 - Agropecuária e Aquacultura","Vulnerável","Não",NULL
+"0cb4b50f-5232-4fde-bc28-d9a8c5dee3b8","82383fe7-c10d-4b9f-bbb7-789cb0fd0d6e","Desconhecida","6 - Distúrbios humanos","Vulnerável","Não","3 - Animais de estimação/ornamentais"
+"ae4e39b0-fc1a-45c0-9aac-4840ddf1930e","e36eaa40-fb71-46af-949b-09fd3ba02aa6","Desconhecida","11 - Mudanças e extremos climáticos 6","Vulnerável","Não",NULL
+"13ba130a-2d70-43a3-bd95-44c7fe7e6770","1d07e6b6-ecec-4702-a33e-84729dcbb0c1","Desconhecida","11 - Mudanças e extremos climáticos 6","Vulnerável","Não",NULL
+"61b24ede-ad0d-4d4c-993a-7fcdc4d2e664","41b4e965-c615-4185-abda-9bfb1cad9715","Desconhecida","11 - Mudanças e extremos climáticos 6","Vulnerável","Não",NULL
+"f54ec0d6-6870-4bc8-835c-1895ddf291f2","34d9ec97-c4cf-48e1-bdf6-aa8c4c426111","Desconhecida","11 - Mudanças e extremos climáticos 6","Vulnerável","Não",NULL
+"e10cb7c1-6362-49b4-86b0-726a1202b012","7d5baa53-b658-4ab5-a860-933f975fb56f","Desconhecida","11 - Mudanças e extremos climáticos 6","Vulnerável","Não",NULL
+"33499733-0acc-4489-bf2a-226f7ee5a708","dfdc9d3c-9f88-4d6a-b805-8fef7ded2d63","Desconhecida","11 - Mudanças e extremos climáticos 6","Vulnerável","Não",NULL
+"4a340c6f-051b-42a2-8798-4b8effd0254d","125d6cb2-b401-4e69-9971-f3a839194d91","Desconhecida","1 - Desenvolvimento residencial e comercial","Em Perigo","Não",NULL
+"cbb7e4bb-5504-4df9-b8ac-3e9415c66d0d","67690781-eff4-4753-b03f-1aad7abc80d6","Desconhecida","10 - Eventos geológicos 1","Vulnerável","Não",NULL
