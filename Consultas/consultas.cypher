@@ -97,7 +97,7 @@ MATCH (e:Especie)
 // Obtém a ameaça da propriedade do relacionamento
 OPTIONAL MATCH (e)-[r:CLASSIFICADA_COMO]->()
 // Obtém a lista de ações de conservação dos nós conectados
-OPTIONAL MATCH (e)-[:ALVO_DE]->(ac:AcaoConservacao)
+OPTIONAL MATCH (e)-[:ESTA_EM]->(ac:AcaoConservacao)
 
 WITH e, r.ameaca AS ameacas, collect(DISTINCT ac.nome) AS acoes
 
